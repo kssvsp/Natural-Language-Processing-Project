@@ -1,0 +1,61 @@
+﻿
+
+ORG: that some background knowledge of microbiology and biochemistry will help in understanding and following the protocols presented
+O/P: that some background knowledge of microbiology and biochemistry will help in
+understanding and fl lewing the pro tools presented
+ORG: This first volume in the series extends from the basics of setting up a molecular biology laboratory and growing bacterial cultures through to the construction of recombinant DNA molecules and transformation of bacterial cells
+O/P: This fist volume in the series extends from che basics of setting up a molecular biology
+laboratory and growing bacterial cultures through to the construction of recombinant DNA molecules and tansformation of bacteria cell
+ORG: Further specifics of library construction and screening are covered in Volume II
+O/P: Further specifics of library construction and screening a recovered in Volume it 
+ORG: Volume I is divided into nine chapters plus appendices
+O/P: Volume fs divided into nine chapters plu sices
+ORG: The chapters are written by different experts in the field, each chapter having the general format of an introduction to the subject to be covered (e.g. RNA isolation or gel electrophoresis) followed by a series of specific protocols interwoven with concise explanatory passages
+O/P: The chapters are wi en by ai fer nt experts i he field each chapter having the general
+format of an introduction to the subject to be covered eg RNA isolation or gel electrophoresis followed by a series of specific protocols interwoven with concise explanatory passages
+
+
+ORG: The introductory preamble to the chapters is generally well presented and should help the reader in assessing the relevance of the protocols
+O/P: The introductory preamble w the chapters is generally well presented and should help the reader in assessing the te levance of the protocols
+
+
+ORG: Some chapters include trouble-shooting guides and the inexperienced molecular biologist should find these chapters to be the most consistently useful
+O/P: Some chapters include troubleshooting guide sand the inexperienced molecular biologist should find t ese chapters to be the most consistently useful
+
+
+ORG: The first chapter is written by the series editor T A Brown
+O/P: The first chapters written by the series editor T A Brown
+
+
+ORG: It provides both a general introduction to the requirements of molecular biological research and a simple presentation of the steps involved in cloning a recombinant molecule
+O/P: It provides both a general introduction to the requirements of molecular biological research and __ simple presentation of the ___ involved in cloning a recombinant molecule
+ORG: The advice given in this chapter is both sensible and useful
+O/P: The advice given in this chapter is both sensible and useful
+ORG: One quibble with the presentation here and elsewhere in the book is the limited detail
+Given on safety in the molecular biology laboratory
+O/P: One quibble with the presentation here and elsewhere in the book is the limited detail
+give non safety in the molecular biology laboratory
+ORG: Although the author refers the readers to their respect we institutional safety departments more safety detail in the text or in the Safety Appendixwould more likely lead to the implementation of safe laboratory practice when experiments are initiated
+O/P: Although the author refers the readers to their respect we institutional safety departments more safety detail in the text or in the Safety Appendixwould more likely lead to the implementation of safe laboratory practice when experiments are in ii ated
+ORG: Following Chapter One is a series of chapters dealing with basic experimental methods required for recombinant DNAwork microbiological technique purification of RNA and DNA electrophoresis of nucleic acids and recovery of DNA from gels
+O/P: Following Chapter One is a series of chapters dealing with basic ex pen mental methods required for recombinant DNAwork microbiological technique purification of RNA and DNA leetrophoresis of nucleic acid sand e eco very of DNA from gels
+ORG: This is followed by two chapters describing the construction of recombinant DNA
+molecules and the generation and identification of recombinant clones
+O/P: This is followed by two chapters describing the construction of recombinant DNA
+molecules and the generation and identification of recombinant clones
+ORG: The final chapter is a lengthy discussion of cloning vectors
+O/P: The final chapter is a lengthy discussion of cloning v ec i ors
+ORG: each technical chapter attempts to provide a succinct description of a  number of well tested protocols
+O/P: ach e ch ni cal chapter al to to provide a succinct description o i t number of well tested
+proto cole
+ORG: The chapters on purification of RNA by M Wilkinson and on the manipulation of recombinant clones by T A
+O/P: The chapters on purification of RNA by M Wilkinson and on the manipulation of
+recombinant clones by T A
+ORG: Brown are particularly well organized and presented
+O/P: Brown are particularly well organized and presented
+ORG: The novice should find them easy to follow
+O/P: The novice should find them co oy to follow
+ORG: Some chapters such as the one dealing with the recovery of DNA from gels may seem
+confusing because of the number of different technical approaches described
+O/P: Some chapters such a the one dealing with the recovery of DNA from gels may seem
+confusing because of the number of different technical approaches described
